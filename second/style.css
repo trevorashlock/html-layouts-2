@@ -1,0 +1,95 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+.container {
+	background-color: #D8D8D8;
+	padding: 60px;
+	
+}
+
+
+
+
+p {
+	font-family: Helvetica;
+	line-height: 30px;
+	margin-bottom: 40px;
+	font-size: 23px;
+
+
+}
+.container2 {
+	display: flex;
+	justify-content: ;
+	position: relative;
+	bottom: 0;
+}
+.click-red {
+	height: 60px;
+	width: 20%;
+	background-color: red;
+	padding: 2%;
+
+	
+}
+.click-red  p {
+   font-family: Helvetica;
+   font-size: 25px;
+   color: white;
+   padding-left: 23%;
+   padding-top:;
+   font-weight: lighter;
+}
+.click-blue {
+	height: 60px;
+	width: 20%;
+	background-color: #4A90E2;
+	padding: 2%;
+	margin-left: 20px;
+}
+
+.text-box {
+	padding: 50px;
+	background-color: white;
+	position: relative;
+	margin-bottom: 60px;
+
+}
+.text-box p {
+	margin-bottom: 60px;
+}
+.box {
+	padding: 60px;
+	background-color: white;
+}
+.text-box button {
+    color: white;
+    font-size: 25px;
+}
+.image {
+	margin-left: 200px;
+}
+.writing {
+	margin-top: 60px;
+}
+.footer {
+	background-color: black;
+	height: 100px;
+	width: 100%;
+	line-height: 100px;
+	text-align: right;
+	
+	position: absolute;
+}
+li {
+	padding: 0 20px;
+	display: inline-block;
+}
+a {
+	color: white;
+	font-size: 18px;
+	text-decoration: none;
+
+}
+
